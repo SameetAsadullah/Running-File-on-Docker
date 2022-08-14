@@ -1,4 +1,4 @@
-#<h1 align="center">Running File on Docker</h1>
+<h1 align="center">Running File on Docker</h1>
 
 ### Description
 Practice of running a `C++ File` using `Docker`.
