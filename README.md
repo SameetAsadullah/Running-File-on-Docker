@@ -7,6 +7,7 @@ Practice of running a `C++ File` using `Docker`.
 1) Make folder of any name in C:/Users/Your-Username/.docker.
 2) Paste provided .cpp file and Dockerfile in that folder.
 3) Open windows powershell/command prompt in that folder and run the following commands
+
     ```
     docker build -t sameetasadullah/i180479:latest .
     ```
